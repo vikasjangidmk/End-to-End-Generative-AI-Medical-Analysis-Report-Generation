@@ -35,3 +35,6 @@ GOOGLE_API_KEY =your_api_key_here
 ```bash
 streamlit run app.py
 ```
+
+6. Deployment Link
+https://vikasjangidmk.streamlit.app/
